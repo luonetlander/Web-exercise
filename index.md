@@ -1,7 +1,5 @@
 ## <Gökhan Arifoglu> web exercise
-
-
- Writing in Markdown is _not_ that hard!
+Writing in Markdown is _not_ that hard!
 
  I **will** complete these lessons!
 
@@ -9,14 +7,14 @@
 
  If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
    
- # Header one
+# Header one
 ## Header two
 ### Header three
 #### Header four
 ##### Header five
 ###### Header six
 
- #### Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
  [Search for it.](www.google.com)
@@ -62,14 +60,15 @@ I read this interesting quote the other day:
  * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
- * Calculus 
- * A professor 
- * Has no hair 
- * Often wears green
+
+* Calculus 
+  * A professor 
+  * Has no hair 
+  * Often wears green
 * Castafiore 
- * An opera singer 
- * Has white hair 
- * Is possibly mentally unwell
+  * An opera singer 
+  * Has white hair 
+  * Is possibly mentally unwell
 
 
  1. Cut the cheese  
